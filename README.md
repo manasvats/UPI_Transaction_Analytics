@@ -89,7 +89,7 @@ Monthly transaction trends, hourly activity, merchant category performance, city
 The project includes a 5-page interactive Power BI dashboard covering UPI transaction performance, payment failures, customer behaviour, bank and payment app performance, and merchant trends.
 
 ### 1. Executive Overview
-![Executive Overview](Screenshots\01_Executive_Overview.png)
+![Executive Overview](Screenshots/01_Executive_Overview.png)
 
 ### 2. Payment Failure Analysis
 ![Payment Failure Analysis](Screenshots\02_Payment_Failure_Analysis.png)
